@@ -1,0 +1,16 @@
+{
+    "name": "mtrunkat/php-enhanced-urlgenerator",
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/routing": "2.*",
+        "symfony/http-foundation": "2.*"
+    },
+    "require-dev": {
+        "silex/silex": "~1.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Trunkat": "src"
+        }
+    }
+}
