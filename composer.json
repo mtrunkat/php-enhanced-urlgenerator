@@ -1,5 +1,8 @@
 {
     "name": "mtrunkat/php-enhanced-urlgenerator",
+    "description": "Url Genarater for Silex enhanced by some features.",
+    "homepage": "https://github.com/mtrunkat/php-enhanced-urlgenerator",
+    "license": "MIT",
     "require": {
         "php": ">=5.3.0",
         "symfony/routing": "2.*",
