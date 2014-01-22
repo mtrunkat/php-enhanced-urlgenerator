@@ -13,7 +13,7 @@ exactly the same as the original
 To install Enhanced Url Generator add following
 line into your composer.json
 
-	mtrunkat/php-enhanced-urlgenerator: "*"
+	"mtrunkat/php-enhanced-urlgenerator": "dev-master"
 
 and call update/install command of composer. Then register provider to Silex:
 
